@@ -226,9 +226,7 @@ template{display:none}[hidden]{display:none}
   /* Navbar
       ============================= */
   
-  .navbar-menu {
-    float: right;
-  }
+ 
   
   .nav {
     margin: 0;
